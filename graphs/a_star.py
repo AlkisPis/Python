@@ -1,3 +1,4 @@
+# DESCRIPTION GUYS, DESCRIPTION! We are not diviners!
 grid = [
     [0, 1, 0, 0, 0, 0],
     [0, 1, 0, 0, 0, 0],  # 0 are free path whereas 1's are obstacles
