@@ -1,3 +1,5 @@
+# THIS CODE NEEDS DESCRIPTION!
+#
 import sys, random, cryptomath_module as cryptoMath
 
 SYMBOLS = r""" !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~"""
