@@ -1,3 +1,5 @@
+# WHAT DOES THIS CODE DO AND WANT TO ACHIEVE???
+#
 graph = {
     "A": ["B", "C", "E"],
     "B": ["A", "D", "E"],
