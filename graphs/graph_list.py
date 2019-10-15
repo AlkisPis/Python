@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # encoding=utf8
 
+#
+# WHAT DOES THIS CODE DO AND WANT TO ACHIEVE???
+#
+
 # Author: OMKAR PATHAK
 
 # We can use Python's dictionary for constructing the graph.
