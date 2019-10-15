@@ -1,3 +1,5 @@
+# WHAT DOES THIS CODE DO AND WANT TO ACHIEVE???
+#
 import pprint, time
 
 
