@@ -1,3 +1,6 @@
+# DESCRIPTION, DESCRIPTION, DESCRIPTION! 
+# Learn to explain what your code is doing and what does it try to achieve!
+#
 if __name__ == "__main__":
     # Accept No. of Nodes and edges
     n, m = map(int, input().split(" "))
