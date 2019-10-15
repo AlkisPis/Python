@@ -7,13 +7,13 @@ LETTERS_AND_SPACE = UPPERLETTERS + UPPERLETTERS.lower() + " \t\n"
 def loadDictionary():
     path = os.path.split(os.path.realpath(__file__))
     englishWords = {}
-    with open(path[0] + "/dictionary.txt") as dictionaryFile:
+    with open(path[0] + "/dictionary.txt") as dictionaryFile:  # WHAT IS/SHOULD BE THE STRUCTURE OF 'dictionary.txt'???
         for word in dictionaryFile.read().split("\n"):
             englishWords[word] = None
     return englishWords
 
 
-ENGLISH_WORDS = loadDictionary()
+ENGLISH_WORDS = loadDictionary()  # THIS CONTAINS TEXT **LINES**, NOT WORDS!
 
 
 def getEnglishCount(message):
